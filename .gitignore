@@ -1,0 +1,7 @@
+#ignore all images
+*.png
+*.jpg
+*.jpeg
+
+#and all zip files
+*.tgz
